@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>나의 소개</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 40px;
+        }
+        h1 {
+            color: navy;
+        }
+        p {
+            color: #333;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>안녕하세요, 저는 [당신의 이름]입니다!</h1>
+    </header>
+    <section>
+        <h2>소개</h2>
+        <p>저는 [직업]로 일하고 있으며, [당신의 도시 또는 국가]에 살고 있습니다. 저의 주요 관심사는 [관심사]입니다.</p>
+    </section>
+    <section>
+        <h2>경력</h2>
+        <p>저는 [경력이나 학력] 분야에서 다양한 경험을 쌓았습니다.</p>
+    </section>
+    <section>
+        <h2>취미 및 관심사</h2>
+        <p>제 취미는 [취미]입니다. 또한, [다른 관심사]에도 큰 관심을 가지고 있습니다.</p>
+    </section>
+    <footer>
+        <p>더 알고 싶으시면 [이메일 주소]로 연락주세요.</p>
+    </footer>
+</body>
+</html>
+  
